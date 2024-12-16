@@ -1,4 +1,4 @@
-# Meu Projeto Python
+# Meu Projeto1
 
 Este projeto contém uma simples calculadora Python que imprime o resultado. Também inclui um arquivo de script `.sh` que executa automaticamente o código Python.
 
